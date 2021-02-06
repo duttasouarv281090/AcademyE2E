@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="HelperClass.Listener" />
+		<!-- <listener class-name="HelperClass.AnnotationTransformer"/> -->
+		<!--<listener class-name="Reports.ExtentReport"/> -->
+	</listeners>
+	<test name="Navigate to Academy Home Page">
+		<classes>
+			<class name="AcademyTestCases.Home" />
+		</classes>
+	</test>
+	<test name="Validate Login Functionality">
+		<classes>
+			<class name="AcademyTestCases.Login" />
+		</classes>
+	</test>
+
+	<!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,5 @@
+08:38:10.656 [main] INFO  AcademyTestCases.Home - Browser Initialized succesfully
+08:38:24.628 [main] INFO  AcademyTestCases.Home - Website succesfully launched 
+08:38:36.354 [main] INFO  AcademyTestCases.Home - User succesfully landed to Home Page 
+08:38:36.504 [main] INFO  AcademyTestCases.Home - Extracted Courses Name matched with the Expected  
+08:38:41.837 [main] INFO  AcademyTestCases.Home - Focused Browser Closed Succesfully..  
